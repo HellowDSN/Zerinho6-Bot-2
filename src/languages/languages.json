@@ -1832,5 +1832,9 @@
     "Serverstats_theWholeYear": {
         "en": "You have data from this whole year.",
         "pt-br": "Você tem data deste ano inteiro."
+    },
+    "Fichas_description": {
+        "en": "Look My Hero Academia roaster",
+        "pt-br": ""
     }
 }

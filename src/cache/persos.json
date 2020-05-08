@@ -1,0 +1,80 @@
+{
+    "1A": {
+        "classe": "1º A",
+        "prof": "**Kanazaki Teuchi**",
+        "quantid": "21/21",
+        "alunos": "Akabari Sosuke \n Akira Atsuto \n Ayatsuru Tayame \n Emi Asami \n Fuyuki Arthyrus \n Gaka Seigi \n Hajime Tanaka \n Ichiro Aoki \n Irumi Sato \n Joel Satori \n Kaibe Nogaro \n Nakamura Manami \n Naomi Asami  \n Natsu Hiboshi \n Ratoru Hebimi \n Ryud Mitsuya \n Shiro Gregorio \n Sora Gregorio \n Takeda Doryu \n Yabuki Aoki \n Yukima Kami"
+    },
+
+    "1B": {
+        "classe": "1º B",
+        "prof": "***Desconhecido***",
+        "quantid": "7/20",
+        "alunos": "Gallahan Izukima \n Hier Tsuo \n Itadai Takemada \n Jackson \n Liz Wahiko \n Murano Hino \n Shingeki Fuwa \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido* "
+    },
+    
+    "1C": {
+        "classe": "1º C",
+        "prof": "***Desconhecido***",
+        "quantid": "2/20",
+        "alunos": "Hennibe Kanazu \n Ikeda Takemada \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido* "
+    },
+    
+    "2A": {
+        "classe": "2º A",
+        "prof": "***Desconhecido***",
+        "quantid": "0/20",
+        "alunos": "*Desconhecido* \n *Desconhecido* \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido* "
+    },
+
+    "2B": {
+        "classe": "2º B",
+        "prof": "***Desconhecido***",
+        "quantid": "3/20",
+        "alunos": "Doug \n Hiven \n Tokizaki Shouko \n *Desconhecido* \n *Desconhecido* \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido* "
+    },
+
+    "2C": {
+        "classe": "2º C",
+        "prof": "***Desconhecido***",
+        "quantid": "0/20",
+        "alunos": "*Desconhecido* \n *Desconhecido* \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido* "
+    },
+    
+    "3A": {
+        "classe": "3º A",
+        "prof": "***Desconhecido***",
+        "quantid": "1/20",
+        "alunos": "Bherrow \n *Desconhecido* \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido* "
+    },
+
+    
+    "3B": {
+        "classe": "3º B",
+        "prof": "***Desconhecido***",
+        "quantid": "0/20",
+        "alunos": "*Desconhecido* \n *Desconhecido* \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido* "
+    },
+
+      "3C": {
+        "classe": "3º C",
+        "prof": "***Desconhecido***",
+        "quantid": "0/20",
+        "alunos": "*Desconhecido* \n *Desconhecido* \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido*  \n *Desconhecido* "
+    },
+
+    "suporte": {
+        "classe": "Departamento de Suporte",
+        "prof": "***Desconhecido***",
+        "quantid": "1/??",
+        "alunos": "Misa Kyadan"
+    },
+
+    "procurados": {
+        "classe": "Procurados (vilões)",
+        "prof": "***Desconhecido***",
+        "quantid": "8/??",
+        "alunos": "*boss* \n *corona* \n Hellsin \n Jackson \n *mago* \n *palhaço* \n *pirumancia* \n *pistoleiro*",
+        "vilao": "sim"
+    }
+}

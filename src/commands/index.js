@@ -42,7 +42,8 @@ exports.requirer = {
   random: require('./chart/random.js'),
   updatecharts: require('./chart/updatecharts.js'),
   version: require('./chart/version.js'),
-  chartdealer: require('./chart/chartdealer.js')
+  chartdealer: require('./chart/chartdealer.js'),
+  fichas: require('./games/fichas.js')
 }
 
 // Do not put chartdealer there. ~ Zerinho6
@@ -57,14 +58,15 @@ exports.commandNames = [
   'guilddefault', 'moneymanager', 'itemmanager',
   'currency', 'unsell', 'allcharts', 'author',
   'chart', 'fullcrashlog', 'crashlog', 'id',
-  'pack', 'random', 'updatecharts', 'version'
+  'pack', 'random', 'updatecharts', 'version',
+  'fichas'
 ]
 
 exports.advanced = {
   Profile: ['profile', 'give', 'buy', 'daily', 'iteminfo', 'guilddefault', 'myprofile', 'moneymanager', 'itemmanager', 'sale', 'unsell', 'currency'],
   Chart: ['allcharts', 'author', 'chart', 'fullcrashlog', 'crashlog', 'id', 'pack', 'random', 'updatecharts', 'version'],
   Bot: ['ram', 'help', 'bot-invite', 'info', 'ping', 'credits', 'stoptyping', 'ping', 'eval'],
-  Games: ['rpg', 'tictactoe', 'tictactoe-profile', 'tictactoe-match'],
+  Games: ['rpg', 'tictactoe', 'tictactoe-profile', 'tictactoe-match', 'fichas'],
   Utility: ['render', 'avatar', 'embed', 'userinfo', 'serverinfo'],
   Staff: ['move', 'set-language', 'serverstats'],
   Etc: ['bhaskara']

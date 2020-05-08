@@ -103,5 +103,10 @@
 			"needArg": true,
 			"userNeed": "MANAGE_GUILD"
 		}
+	},
+	"fichas": {
+		"options": {
+			"needArg": true
+		}
 	}
 }

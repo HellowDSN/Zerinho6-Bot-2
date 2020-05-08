@@ -127,5 +127,8 @@
     },
     "version": {
         "redir": "Version_description"
+    },
+    "fichas": {
+        "redir": "Fichas_description"
     }
 }

@@ -1,0 +1,26 @@
+{
+    "prof1": {
+        "nome": "Aizawa",
+        "nome2": "Shota",
+
+        "andar1": "Me siga.",
+        "andar2": "Venha.",
+
+        "encount1": "Hm, você deve ser ",
+        "encount2": ". Então você se perdeu? E veio pedir ajuda logo pra mim? Tá, tá, me diga aonde quer ir.",
+
+        "classes1": "Aqui estão as classes. Pode ir conhecer alguma, se quiser.",
+        "classes2": "\n Também há a Sala dos Professores e uma área com informações de vilões procurados.",
+        "classest": "\n \n *(Digite '-classes' para ver todas as classes; digite '-classe nome da classe' pra se aprofundar nela)*",
+        "classes3": "\n \n Precisa de mais alguma coisa?",
+
+        "datas1": "Aqui ficam registrados os eventos da U.A. (os passados e os que estão por vir)",
+        "datas2": "\n Ah, você também pode checar aqui os aniversários dos estudantes.",
+        "datast": "\n \n *(Editar assim que terminar o comando '-datas')*",
+        "datas3": "\n \n Precisa de mais alguma coisa?",
+
+        "despedid1": "Bom, se era só isso, já vou indo...",
+        "rage1": "Tenho mais o que fazer."
+    }
+
+}
